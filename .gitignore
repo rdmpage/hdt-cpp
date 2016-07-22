@@ -17,6 +17,7 @@ stamp-h1
 
 *.hdt
 *.hdt.index
+*.hdt.hdtcache
 *.nt
 *.rdf
 *.a
